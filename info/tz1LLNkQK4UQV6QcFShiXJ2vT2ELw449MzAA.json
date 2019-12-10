@@ -1,0 +1,57 @@
+{
+  "bakerName": "TezoSteam",
+  "bakerAccount": "tz1LLNkQK4UQV6QcFShiXJ2vT2ELw449MzAA",
+  "signupRequired": "false",
+  "country": "Italy",
+  "website": "https://tezosteam.com",
+  "bakerDescription": "Your trusted baker, active since cycle 3.",
+  "nonStandardPaymentDescription": "",
+  "upcomingPaymentModelDescription": "",
+  "branding": {
+    "logo256": "https://api.baking-bad.org/logos/tezos-team.png",
+    "logo1024": "",
+    "logoSvg": ""
+  },
+  "support": {
+    "email": "info@stakingteam.com",
+    "supportUrl": "https://t.me/TezoSteam"
+  },
+  "projects": [
+    {
+      "projectName": "TezoSteam Token (TST)",
+      "projectUrl": "https://tezosteam.com/tezosteam-token/"
+    },
+    {
+      "projectName": "TezoSteam Meetup - 30/11/2018",
+      "projectUrl": "https://youtu.be/rJ8YCF-DIHA"
+    }
+  ],
+  "social": {
+    "telegram": "https://t.me/TezoSteam",
+    "twitter": "https://twitter.com/StakingTeam",
+	  "medium": "https://medium.com/@StakingTeam",
+    "reddit": "https://www.reddit.com/user/TezoSteamBakery"
+  },
+  "team": [
+    {
+      "teamMemberName": "Giulio Astarita",
+      "teamMemberProfile": "https://www.linkedin.com/in/giulio-astarita-6012172/",
+      "teamMemberImageUrl": "https://stakingteam.com/wp-content/uploads/2019/02/giulio-astarita.png"
+    },
+    {
+      "teamMemberName": "Gianpaolo Eramo",
+      "teamMemberProfile": "https://www.linkedin.com/in/gianpaoloeramo/detail/photo/",
+      "teamMemberImageUrl": "https://stakingteam.com/wp-content/uploads/2019/02/gianpaolo-eramo.png"
+    },
+    {
+      "teamMemberName": "Alberto Marrone",
+      "teamMemberProfile": "https://stakingteam.com/about-us/#OURTEAM",
+      "teamMemberImageUrl": "https://stakingteam.com/wp-content/uploads/2019/02/alberto-marrone.png"
+    },
+    {
+      "teamMemberName": "Andrea Torrente",
+      "teamMemberProfile": "https://stakingteam.com/about-us/#OURTEAM",
+      "teamMemberImageUrl": "https://stakingteam.com/wp-content/uploads/2019/02/andrea-torrente.png"
+    }
+  ]
+}
